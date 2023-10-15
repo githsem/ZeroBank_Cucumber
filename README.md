@@ -35,7 +35,6 @@
     <pre><code>mvn test</code></pre>
   </ol>
 
-
   <h2>Dependencies</h2>
 
   <p>The project requires the following dependencies:</p>
